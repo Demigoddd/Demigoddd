@@ -1,6 +1,7 @@
 <div align="center"><img src="https://w0.peakpx.com/wallpaper/61/839/HD-wallpaper-samurai-warrior-silhouette-art-black-and-white.jpg"></div>
 <h1 align="center">⚡Hello World 👋</h1>
 
+<!-- 
 ### <h3 align="left">💻 Tech Stack:</h3>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -34,6 +35,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+-->
 
 ### <h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=Demigoddd&theme=default&hide_border=true&include_all_commits=true&count_private=true)
