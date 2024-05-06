@@ -1,3 +1,4 @@
+<div align="center"><img src="https://w0.peakpx.com/wallpaper/61/839/HD-wallpaper-samurai-warrior-silhouette-art-black-and-white.jpg"></div>
 <h1 align="center">⚡Hello World 👋</h1>
 
 ### <h3 align="left">💻 Tech Stack:</h3>
