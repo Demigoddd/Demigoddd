@@ -1,4 +1,6 @@
-<div align="center"><img src="https://w0.peakpx.com/wallpaper/61/839/HD-wallpaper-samurai-warrior-silhouette-art-black-and-white.jpg"></div>
+<!-- <div align="center"><img src="https://w0.peakpx.com/wallpaper/61/839/HD-wallpaper-samurai-warrior-silhouette-art-black-and-white.jpg"></div> -->
+<div align="center"><img src="https://github.com/Demigoddd/Demigoddd/assets/29791715/3e2f6c96-fbb1-44b2-b602-af9ff6a064ba"></div>
+
 <h1 align="center">⚡Hello World 👋</h1>
 
 <!-- 
